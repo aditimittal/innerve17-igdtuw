@@ -1,2 +1,2 @@
 # innerve-igdtuw
-This is Innerve's website and Innerve is IGDTUW's technical fest.
+Complete code for Innerve's(IGDTUW's technical fest) website.
